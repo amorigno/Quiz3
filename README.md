@@ -1,1 +1,2 @@
-# Quiz3
+#This is a test for markdown
+This file shows markdown formats
