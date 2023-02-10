@@ -3,7 +3,7 @@ This file showcases the different styles and formats available for markdown file
 ## Number 1 Bold
 This is a **BOLD** text.
 ## Number 2 Italic
-This is a * *ITALIC* * word.
+This is a *ITALIC* word.
 ## Number 3 Blockquote
 This is a block:
 > This is text within a block.
